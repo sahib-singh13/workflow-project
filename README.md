@@ -6,11 +6,13 @@ A modern, responsive employee management dashboard built with React and Tailwind
 
 ### ✨ Live Demo
 
-*[Link to your live deployed application (e.g., on Vercel or Netlify) will go here]*
+https://workflow-project.vercel.app/login
 
 ### 📸 Screenshot
 
-![Employee Dashboard](./screenshot-dashboard.png)
+(./screenshot1.png)
+(./screenshot2.png)
+(./screenshot3.png)
 *(**Action:** Add a screenshot of your dashboard named `screenshot-dashboard.png` to your project's root folder.)*
 
 ---
